@@ -26,7 +26,7 @@ example(of: "Publisher") {
   // 5
   center.post(name: myNotification, object: nil)
 
-  // 6
+  // 6 
   center.removeObserver(observer)
 }
 
